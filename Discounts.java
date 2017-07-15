@@ -1,3 +1,8 @@
+/*
+Calculates how much of a discount to provide dependant on the customer's purchase amount.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
 public class Discounts {
 
