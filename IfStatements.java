@@ -1,3 +1,8 @@
+/*
+Shows how if-statements may be used.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import javax.swing.JOptionPane;
 public class IfStatements {
 
