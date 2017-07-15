@@ -1,6 +1,7 @@
-/**
- *Michelle Blum
- */
+/*
+User inputs student information.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
 
 import java.util.Scanner;
 
