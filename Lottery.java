@@ -1,3 +1,8 @@
+/*
+Shows how Java's random function works.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Random;
 
 public class Lottery {
