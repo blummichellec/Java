@@ -1,6 +1,6 @@
-/**
- * Michelle Blum
- * January 12th, 2015
+/*
+Converts farenheit to celcius.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
  */
 
 import java.text.DecimalFormat;
