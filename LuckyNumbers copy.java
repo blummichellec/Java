@@ -1,3 +1,8 @@
+/*
+Determines if a number is "lucky" based on pre-determined qualifications.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
 
 public class LuckyNumbers {
