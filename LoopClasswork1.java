@@ -1,7 +1,7 @@
-/**
- * Michelle Blum
- * November 18th, 2014
- */
+/*
+Shows how for loops may be used.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
 import java.util.Scanner;
 public class LoopClasswork1 {
 
