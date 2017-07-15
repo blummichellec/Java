@@ -1,6 +1,6 @@
-/**
- * Michelle Blum
- * December 12th, 2014
+/*
+ This program calculates the amount of money one is able to spend on each person given a set amount.
+ © 2014 MICHELLE BLUM ALL RIGHTS RESERVED
  */
 
 import java.util.Scanner;
