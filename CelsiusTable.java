@@ -1,6 +1,6 @@
 /**
- * Michelle Blum
- * January 12th, 2015
+Converts farenheit to celcius and places in a nice table.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
  */
 
 import java.text.DecimalFormat;
