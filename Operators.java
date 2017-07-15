@@ -1,3 +1,8 @@
+/*
+Shows the order and function of mathematics operators in Java.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 
 public class NumberEight {
 
