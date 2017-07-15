@@ -1,4 +1,9 @@
 
+/*
+Understanding the concept of inheritance.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 public class inheritance {
 public static void makeCounts(int n)
 {
