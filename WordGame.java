@@ -1,3 +1,8 @@
+/*
+Playing with people's inputted responses.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
 public class WordGame {
 
