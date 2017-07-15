@@ -1,8 +1,8 @@
-/**
- * 
- * GUESS WHO FINAL
- */
-public class RunnerGuessWho {
+/*
+Relates to the file entitled "GuessWho".
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+public class GuessWhoRunner {
   
   
   public static void main(String[] args) { 
