@@ -1,3 +1,8 @@
+/*
+Performs triangle calculations.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
 import java.lang.Math;
 
