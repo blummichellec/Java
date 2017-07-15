@@ -6,7 +6,7 @@ This program demonstrates the different capabilities of the math class in java.
 import java.util.Scanner;
 import java.lang.Math;
 
-public class arithmetic {
+public class Arithmetic {
 
 	public static void main(String[] args) {
 		int number;
