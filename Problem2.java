@@ -1,3 +1,8 @@
+/*
+Finding uses for other Java libraries.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Arrays;
 import java.util.Scanner;
 import java.lang.Math;
