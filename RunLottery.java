@@ -1,3 +1,8 @@
+/*
+Relates to the file entitled "Lottery".
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
 public class RunLottery {
 
