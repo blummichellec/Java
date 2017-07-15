@@ -1,7 +1,7 @@
-/**
- * Michelle Blum
- * December 2nd, 2014
- */
+/*
+The user tries to guess the number that the computer is thinking.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
 
 import java.util.Random;
 import java.util.Scanner;
