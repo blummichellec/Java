@@ -1,3 +1,8 @@
+/*
+Shows how to use the pop-up box in java.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import javax.swing.JOptionPane;
 
 public class DialogViewerer 
