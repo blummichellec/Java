@@ -4,7 +4,7 @@ Relates to the file entitled "Lottery".
 */
 
 import java.util.Scanner;
-public class RunLottery {
+public class LotteryRunner {
 
 	public static void main(String[] args) {
 		
