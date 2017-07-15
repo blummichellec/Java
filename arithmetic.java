@@ -1,7 +1,12 @@
+/*
+This program demonstrates the different capabilities of the math class in java.
+© 2014 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
 import java.lang.Math;
 
-public class calcc {
+public class arithmetic {
 
 	public static void main(String[] args) {
 		int number;
