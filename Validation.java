@@ -1,5 +1,10 @@
+/*
+Shows how to check that an input is valid and how to use the compareTo function.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
-public class homework2 {
+public class validation {
 
 	public static void main(String[] args) {
 		String letter;
