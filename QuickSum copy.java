@@ -1,3 +1,8 @@
+/*
+Goes through each letter in an inputted string to determine a sum from their locations in the alphabet.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
+
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
