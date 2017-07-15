@@ -1,7 +1,7 @@
-/**
- * 
- * GUESS WHO FINAL
- */
+/*
+Plays the game Guess Who. Use runner file to run this file.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
+*/
 import java.util.Random;
 import java.util.Scanner;
 public class GuessWho {
