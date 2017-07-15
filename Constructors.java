@@ -5,15 +5,14 @@ Uses different classes to describe a car.
 
 public class Car {
 
-private int yearModel, speed;
-private String make;
+private int yearModel = 2015, speed = 0;
+private String make = "Corvette";
 
 //constructor
-public Car(int ym, String m, int s)
+public Car(int ym, String m)
 {
-	yearModel = y;
+	yearModel = ym;
 	make = m;
-	speed = s;
 }
 //returns the car's year
 public int getYear()
@@ -30,9 +29,15 @@ public int getSpeed()
 {
 	return speed;
 }
-//adds one to current speed
+//adds five to current speed
 public void accelerate()
 {
-	
+    if (speed != 100)
+    	speed = speed+5;
+}
+public void brake()
+{
+	if (speed != 0)
+		speed = speed-5;
 }
 }
