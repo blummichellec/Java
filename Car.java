@@ -1,6 +1,6 @@
-/**
- * Michelle Blum
- * January 13th, 2015
+/*
+Uses different classes to describe a car.
+© 2015 MICHELLE BLUM ALL RIGHTS RESERVED
  */
 
 public class Car {
